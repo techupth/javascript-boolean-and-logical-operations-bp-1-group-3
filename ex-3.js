@@ -2,7 +2,9 @@
 
 //Start coding here
 let numberA = 100;
-let numberB = 20;
+let numberB = "20";
+
+numberB = Number(numberB)
 
 numberA = 10;
 
